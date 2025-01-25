@@ -31,6 +31,8 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+At first, I found it quite hard to apply what I had learned about JavaScript previously to building a website. 
+
 ## License
 
     Copyright 2025 Uyen Truong 

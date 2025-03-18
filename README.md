@@ -25,8 +25,6 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/oJFq0tg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Kap  
-
 ## Notes
 
 Describe any challenges encountered while building the app.
